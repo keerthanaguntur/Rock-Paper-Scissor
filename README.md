@@ -36,6 +36,7 @@ This Kotlin program implements a simple console-based Rock, Paper, Scissors game
 - Rock crushes Scissors.
 - Scissors cuts Paper.
 - Paper covers Rock.
+- Tie if both choose the same option.
 
 ## Sample Gameplay
 
